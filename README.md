@@ -2,3 +2,4 @@
 UDEMY C++ From Beginner to Beyond ||
 UDEMY WEB Developer Bootcamp (HTML, CSS, JavaScript) || 
 CISCO Academy Network Technician Career Path || 
+CISCO Academy Networking Program, Networking Essentials
